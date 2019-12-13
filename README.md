@@ -1,0 +1,3 @@
+# ArraySplicing
+
+ArraySplicing practice 
